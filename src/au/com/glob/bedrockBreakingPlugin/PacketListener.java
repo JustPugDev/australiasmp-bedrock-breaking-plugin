@@ -84,7 +84,7 @@ public final class PacketListener extends PacketAdapter {
                         }
 
                         // bump to next stage
-                        ticks += 5;
+                        ticks += 2;
                         int stage = ticks / ticksPerStage;
 
                         // haven't been digging long enough
