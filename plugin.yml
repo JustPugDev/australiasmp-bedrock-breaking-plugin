@@ -1,4 +1,4 @@
-name: AUSMPBedrockBreaking
+name: AustraliaSMPBedrockBreakingPlugin
 main: au.com.glob.bedrockBreakingPlugin.BedrockBreakingPlugin
 version: 1.0
 api-version: 1.13
