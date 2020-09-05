@@ -1,3 +1,2 @@
-bin/
-lib/
-src/.format
+/src/.format
+/target/
